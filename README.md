@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @williamsantos102
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Me chamo Willian dos Santos 
+
+Sou aluno do Ensino Médio da rede Estadual do Estado do Paraná
+
+Meu e-mail é William.santos01@escola.pr.gov.br
 
 <!---
 williamsantos102/williamsantos102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
